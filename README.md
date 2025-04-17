@@ -20,6 +20,10 @@
 - ✅ Strict Mode for TypeScript and React 18
 - 💖 Code Formatter with [Prettier](https://prettier.io)
 - 🦊 Husky for Git Hooks
+- 🔥 [React-hook-form](https://react-hook-form.com/)
+- 🐣 [Zod](https://zod.dev/)
+- 🦁 [Tanstack Query](https://tanstack.com/query/latest/docs/framework/react/guides/query-keys)
+- 🦖 [Commitlint](https://commitlint.js.org/)
 
 ### Requirements
 
